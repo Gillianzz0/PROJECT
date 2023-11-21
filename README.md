@@ -41,8 +41,3 @@ At the turn of the millennium, the Hong Kong film industry underwent significant
 - A series of data visualizations vividly showing the changes in the Hong Kong film industry.
 - A brief analytical report summarizing the main findings and trends.
 
-## Existing Research and Literature References
-- **YEH Yueh-yu, Emilie's Research on Hong Kong Cinema**: 
-   - Prof. Yeh's research projects focus on the history of film exhibition and reception in colonial Hong Kong and the early Hong Kong cinema. Her work provides valuable insights into the institutionalization of cinema by the business community. [Read More](https://www.ln.edu.hk/news/20201214/Hong-Kong-cinemas-three-act-story)
-- **Hong Kong Cinema's Post-Boom Analysis**:
-   - Prof. Yeh also examines the more recent history of Hong Kong cinema, especially post its boom period, and discusses the retreat of the film industry since the mid-1990s. [Read More](https://www.ln.edu.hk/news/20201214/Hong-Kong-cinemas-three-act-story)
