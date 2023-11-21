@@ -42,6 +42,7 @@ At the turn of the millennium, the Hong Kong film industry underwent significant
 - A brief analytical report summarizing the main findings and trends.
 
 ## Existing Research and Literature References
-- **Cheung, E. (2019). _Hong Kong Cinema and Globalization: Perspectives and Challenges_. HKU Press.**
-- **Leung, G. (2018). "The Changing Landscape of Hong Kong's Film Industry". _Journal of Film Studies_, 35(4), 22-37.**
-- **Wong, C. (2020). "Data-Driven Analysis of Hong Kong Cinema Market Trends". _Asian Cinema Review_, 12(2), 55-75.**
+- **YEH Yueh-yu, Emilie's Research on Hong Kong Cinema**: 
+   - Prof. Yeh's research projects focus on the history of film exhibition and reception in colonial Hong Kong and the early Hong Kong cinema. Her work provides valuable insights into the institutionalization of cinema by the business community. [Read More](https://www.ln.edu.hk/news/20201214/Hong-Kong-cinemas-three-act-story)
+- **Hong Kong Cinema's Post-Boom Analysis**:
+   - Prof. Yeh also examines the more recent history of Hong Kong cinema, especially post its boom period, and discusses the retreat of the film industry since the mid-1990s. [Read More](https://www.ln.edu.hk/news/20201214/Hong-Kong-cinemas-three-act-story)
